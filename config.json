@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcalidate",
+        "uuid": 11862500,
+        "checksum": "xizaj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
